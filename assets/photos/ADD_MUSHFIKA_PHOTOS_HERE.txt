@@ -1,0 +1,2 @@
+Add 12+ photos named mushfika-01.jpg through mushfika-12.jpg for gallery.html.
+You can add more by duplicating a gallery figure block in gallery.html.
